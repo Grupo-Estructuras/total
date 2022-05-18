@@ -1,0 +1,20 @@
+Perl,3844
+Assembly language,1138
+Lua,9657
+Classic Visual Basic,898
+JavaScript,310628
+C#,47117
+R,26354
+Go,41926
+Swift,34026
+Objective-C,5462
+C++,45632
+Ruby,28332
+Java,165419
+Visual Basic,898
+C,44110
+SQL,24451
+MATLAB,9746
+Python,278568
+PHP,89988
+Delphi/Object Pascal,1910

@@ -1,0 +1,22 @@
+{
+    "python": "python",
+    "c": "c",
+    "java":"java",  
+    "c++": "cpp",
+    "c#":"csharp",
+    "visual basic": "visualbasic",
+    "javascript": "javascript",
+    "assembly language": "assembly",
+    "sql": "sql",
+    "php": "php",
+    "r": "r",
+    "delphi/object pascal": "delphi",
+    "go": "go",
+    "swift": "swift",
+    "ruby": "ruby",
+    "classic visual basic": "visualbasic",
+    "objective-c": "objective-c",
+    "perl": "perl",
+    "lua": "lua",
+    "matlab": "matlab"
+}

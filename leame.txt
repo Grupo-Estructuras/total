@@ -1,0 +1,2 @@
+Cada una de las carpetas contiene el proyecto en un lenguaje.
+Además cada directorio incluye un archivo README.md con instrucciones para la compilación y ejecucicón de los códigos.
